@@ -17,6 +17,10 @@ return {
         desc = 'Toggle NvimTree',
       },
     },
+    diagnostics = {
+      enable = true,
+      show_on_dirs = true,
+    },
   },
   -- ... other plugins ...
 }
